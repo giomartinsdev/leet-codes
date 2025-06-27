@@ -1,0 +1,14 @@
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.AssemblyInfoInputs.cache
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.AssemblyInfo.cs
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.csproj.CoreCompileInputs.cache
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/bin/Debug/net9.0/169-Majority-Element
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/bin/Debug/net9.0/169-Majority-Element.deps.json
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/bin/Debug/net9.0/169-Majority-Element.runtimeconfig.json
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/bin/Debug/net9.0/169-Majority-Element.dll
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/bin/Debug/net9.0/169-Majority-Element.pdb
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.dll
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/refint/169-Majority-Element.dll
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.pdb
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/169-Majority-Element.genruntimeconfig.cache
+/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/Debug/net9.0/ref/169-Majority-Element.dll
