@@ -8,27 +8,25 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/giovanni.amartins/.nuget/packages/": {}
+    "C:\\Users\\gio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/169-Majority-Element.csproj",
+      "projectUniqueName": "C:\\Users\\gio\\Documents\\dev\\leet-codes\\src\\169-Majority-Element\\169-Majority-Element.csproj",
       "projectName": "169-Majority-Element",
-      "projectPath": "/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/169-Majority-Element.csproj",
-      "packagesPath": "/home/giovanni.amartins/.nuget/packages/",
-      "outputPath": "/home/giovanni.amartins/Documentos/dev/repositories/leet-codes/src/169-Majority-Element/obj/",
+      "projectPath": "C:\\Users\\gio\\Documents\\dev\\leet-codes\\src\\169-Majority-Element\\169-Majority-Element.csproj",
+      "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gio\\Documents\\dev\\leet-codes\\src\\169-Majority-Element\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/giovanni.amartins/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/stonepagamentos/_packaging/stone-prod/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -46,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

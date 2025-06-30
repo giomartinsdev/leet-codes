@@ -39,7 +39,8 @@
             "description": "Select project to launch",
             "type": "pickString",
             "options": [
-                "169-Majority-Element"
+                "169-Majority-Element",
+                "1768-Merge-Strings-Alternately"
             ]
         }
     ]
