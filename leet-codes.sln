@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768-Merge-Strings-Alternat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169-Majority-Element", "src\169-Majority-Element\169-Majority-Element.csproj", "{F1C463F3-E33F-4A70-875F-B45616B8ECD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121-Best-Time-to-Buy-and-Sell-Stock", "src\121-Best-Time-to-Buy-and-Sell-Stock\121-Best-Time-to-Buy-and-Sell-Stock.csproj", "{D56EE621-49C7-460F-92DF-46C3C18DA3C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{F1C463F3-E33F-4A70-875F-B45616B8ECD6}.Release|x64.Build.0 = Release|Any CPU
 		{F1C463F3-E33F-4A70-875F-B45616B8ECD6}.Release|x86.ActiveCfg = Release|Any CPU
 		{F1C463F3-E33F-4A70-875F-B45616B8ECD6}.Release|x86.Build.0 = Release|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Debug|x64.Build.0 = Debug|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Debug|x86.Build.0 = Debug|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Release|x64.ActiveCfg = Release|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Release|x64.Build.0 = Release|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +64,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{38FD5574-F7E0-4367-B3B3-764DADBC4F4A} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{F1C463F3-E33F-4A70-875F-B45616B8ECD6} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{D56EE621-49C7-460F-92DF-46C3C18DA3C9} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 EndGlobal

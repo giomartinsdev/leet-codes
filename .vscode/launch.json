@@ -40,7 +40,8 @@
             "type": "pickString",
             "options": [
                 "169-Majority-Element",
-                "1768-Merge-Strings-Alternately"
+                "1768-Merge-Strings-Alternately",
+                "121-Best-Time-to-Buy-and-Sell-Stock"
             ]
         }
     ]
