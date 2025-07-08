@@ -396,6 +396,7 @@ FodyWeavers.xsd
 # .NET Core build folders
 bin/
 obj/
-
+*/obj/*
+*/bin/*
 /node_modules
 /wwwroot/node_modules
